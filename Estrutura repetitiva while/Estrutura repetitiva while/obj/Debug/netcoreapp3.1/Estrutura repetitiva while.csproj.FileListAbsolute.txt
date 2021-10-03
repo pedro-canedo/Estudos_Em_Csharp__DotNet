@@ -1,0 +1,14 @@
+C:\Users\Pedro\source\repos\Estrutura repetitiva while\Estrutura repetitiva while\obj\Debug\netcoreapp3.1\Estrutura repetitiva while.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\Estrutura repetitiva while\Estrutura repetitiva while\obj\Debug\netcoreapp3.1\Estrutura repetitiva while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\Estrutura repetitiva while\Estrutura repetitiva while\obj\Debug\netcoreapp3.1\Estrutura repetitiva while.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\Estrutura repetitiva while\Estrutura repetitiva while\obj\Debug\netcoreapp3.1\Estrutura repetitiva while.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\Estrutura repetitiva while\Estrutura repetitiva while\obj\Debug\netcoreapp3.1\Estrutura repetitiva while.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Estrutura repetitiva while\Estrutura repetitiva while\bin\Debug\netcoreapp3.1\Estrutura repetitiva while.exe
+C:\Users\Pedro\source\repos\Estrutura repetitiva while\Estrutura repetitiva while\bin\Debug\netcoreapp3.1\Estrutura repetitiva while.deps.json
+C:\Users\Pedro\source\repos\Estrutura repetitiva while\Estrutura repetitiva while\bin\Debug\netcoreapp3.1\Estrutura repetitiva while.runtimeconfig.json
+C:\Users\Pedro\source\repos\Estrutura repetitiva while\Estrutura repetitiva while\bin\Debug\netcoreapp3.1\Estrutura repetitiva while.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\Estrutura repetitiva while\Estrutura repetitiva while\bin\Debug\netcoreapp3.1\Estrutura repetitiva while.dll
+C:\Users\Pedro\source\repos\Estrutura repetitiva while\Estrutura repetitiva while\bin\Debug\netcoreapp3.1\Estrutura repetitiva while.pdb
+C:\Users\Pedro\source\repos\Estrutura repetitiva while\Estrutura repetitiva while\obj\Debug\netcoreapp3.1\Estrutura repetitiva while.dll
+C:\Users\Pedro\source\repos\Estrutura repetitiva while\Estrutura repetitiva while\obj\Debug\netcoreapp3.1\Estrutura repetitiva while.pdb
+C:\Users\Pedro\source\repos\Estrutura repetitiva while\Estrutura repetitiva while\obj\Debug\netcoreapp3.1\Estrutura repetitiva while.genruntimeconfig.cache
